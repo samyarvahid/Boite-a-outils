@@ -9,7 +9,7 @@ export default defineConfig({
   	}
   },
   lang: 'fr-CA',
-  base: '/outils/',
+  base: '/Boite-a-outils/',
   title: "Boite à outils",
   description: "Des ressources et leçons pour le français au niveau secondaire en Ontario",
   themeConfig: {
