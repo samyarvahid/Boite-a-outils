@@ -8,8 +8,8 @@ export default defineConfig({
   		md.use(footnote)
   	}
   },
-  lang: 'fr-CA'
-  base: '/outils/'
+  lang: 'fr-CA',
+  base: '/outils/',
   title: "Boite à outils",
   description: "Des ressources et leçons pour le français au niveau secondaire en Ontario",
   themeConfig: {
