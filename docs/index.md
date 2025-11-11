@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "La Boîte à outils"
+  name: "Boîte à outils"
   text: "Des ressources pour le français au niveau secondaire en Ontario"
 #  tagline: My great project tagline
   actions:
